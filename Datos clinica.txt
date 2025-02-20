@@ -1,0 +1,28 @@
+https://www.clinicaregionaldelsanjorge.com
+
+gestiondocumental@clinicaregionaldelsanjorge.com
+
+usuario y contraseña de cpanel
+usuario: clinic
+contraseña: Q4LCZE6Pkt*
+
+
+ususario y contraseña de base de datos
+Nombre de base de datos: clinic_Bd
+Usuario: clinic_admin
+Nombre servidor: localhost:3306
+Contraseña: Admin_clinic2024
+
+
+usuario y contraseña de wordpress
+
+Usuario: clinic_admin
+Contraseña: QkskzBl$HoHVjyB&gW
+
+
+clave de API akismet
+f7949d34017a
+
+
+
+contraseña siau [ZhyCnx16~e+
